@@ -1,0 +1,2 @@
+# nomal-store
+ordinary
